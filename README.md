@@ -3,8 +3,8 @@
 
 
 <br>
-<a href="https://github.com/AlfiyaShaikh-10"><img src="https://komarev.com/ghpvc/?username=Alfiya-Shaikh&label=Profile%20views&color=0e75b6&style=flat"  /></a> 
-<a href="https://github.com/AlfiyaShaikh-10?tab=followers"><img src="https://img.shields.io/github/followers/Alfiya-Shaikh?label=followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/AlfiyaShaikh-10"><img src="https://komarev.com/ghpvc/?username=AlfiyaShaikh-10&label=Profile%20views&color=0e75b6&style=flat"  /></a> 
+<a href="https://github.com/AlfiyaShaikh-10?tab=followers"><img src="https://img.shields.io/github/followers/AlfiyaShaikh-10?label=followers&style=social" alt="GitHub Badge"></a>
 <a href="https://www.linkedin.com/in/alfiya-shaikh-1015786/" target="_blank"><img src="https://img.shields.io/badge/-Alfiya%20Shaikh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alfiya-shaikh-1015786//"></a>
 <br><br>
 
@@ -28,7 +28,7 @@
 | <h4 align="left">Education</h4> | ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)  ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) |
 | <h4 align="left">Developer/Forums</h4> | ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) |
 | <h4 align="left">Databases</h4> | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
--->
+
 
 <!--
 ![Languages](https://img.shields.io/badge/Languages-informational?style=for-the-badge&color=black)
