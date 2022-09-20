@@ -8,6 +8,12 @@
 <a href="https://www.linkedin.com/in/alfiya-shaikh-1015786/" target="_blank"><img src="https://img.shields.io/badge/-Alfiya%20Shaikh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alfiya-shaikh-1015786//"></a>
 <br><br>
 
+<p align="left" >
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=AlfiyaShaikh-10&show_icons=true&locale=en&theme=vision-friendly-dark&&count_private=true&include_all_commits=true" alt="AlfiyaShaikh-10" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlfiyaShaikh-10&theme=vision-friendly-dark" alt="AlfiyaShaikh-10" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=FarhanKhan1911&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="AlfiyaShaikh-10" />
+</p>
+
 - 🔭 I’m currently working on **self projects**
 <!-- - 🌱 I’m currently working on  **AI Based E-commerce Website** -->
 
