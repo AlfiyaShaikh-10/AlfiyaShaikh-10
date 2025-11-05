@@ -76,8 +76,6 @@
 
 ## My Github Stats 📈
 <img align="left" width="52%" src="https://github-readme-stats.vercel.app/api?AlfiyaShaikh-10&hide=issues&count_private=true&show_icons=true&theme=radical" alt="AlfiyaShaikh-10" />
-<img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlfiyaShaikh-10&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlfiyaShaikh-10&show_icons=true&locale=en&layout=compact&theme=radical" alt="AlfiyaShaikh-10" />
 
 <!--
 [![Alfiya's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AlfiyaShaikh-10&show_icons=true&locale=en&layout=compact&theme=radical)](https://github.com/AlfiyaShaikh-10/github-readme-stats)
