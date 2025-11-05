@@ -10,9 +10,7 @@
 
 <p align="left" >
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=AlfiyaShaikh-10&show_icons=true&locale=en&theme=vision-friendly-dark&&count_private=true&include_all_commits=true" alt="AlfiyaShaikh-10" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=AlfiyaShaikh-10&theme=vision-friendly-dark" alt="AlfiyaShaikh-10" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlfiyaShaikh-10&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="AlfiyaShaikh-10" />
-</p>
+  </p>
 
 - 🔭 I’m currently working on **self projects**
 <!-- - 🌱 I’m currently working on  **AI Based E-commerce Website** -->
@@ -81,9 +79,6 @@
 [![Alfiya's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AlfiyaShaikh-10&show_icons=true&locale=en&layout=compact&theme=radical)](https://github.com/AlfiyaShaikh-10/github-readme-stats)
 
 [![Alfiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlfiyaShaikh-10&hide=issues&count_private=true&show_icons=true&layout=compact&theme=radical)](https://github.com/AlfiyaShaikh-10/github-readme-stats)
-
-[![Alfiya's GitHub Contribution](https://github-readme-streak-stats.herokuapp.com/?user=AlfiyaShaikh-10&layout=compact&theme=radical)](https://github.com/AlfiyaShaikh-10/github-readme-stats)
-
 
 
 
